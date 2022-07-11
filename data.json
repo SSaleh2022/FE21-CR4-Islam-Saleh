@@ -1,0 +1,49 @@
+let movies = `[{
+    "movieName": "Year 1984",
+
+    "image": "https://s3.amazonaws.com/criterion-production/films/9b263f6358cf0bae18244c759d4592f0/BonyZ4taymxrfBiRqY6K42NBh0jsop_large.jpg",
+
+    "description": "In a futuristic world which is controlled by an omniscient leader, Big Brother, where free thoughts, feelings and expressions are a sin.",
+
+    "likes": 10
+},{
+    "movieName": "V for Vendetta",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+
+    "description": "In a futuristic and totalitarian Britain, a freedom fighter uses terrorist tactics to fight the oppressive society.",
+
+    "likes": 20
+},{
+    "movieName": "the platform",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAxYmQzYmYtYjEzYS00ZTFkLWE3NjUtODhjOTQzM2U5ZWI1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+
+    "description": "In the future, prisoners housed in vertical cells watch as inmates in the upper cells are fed while those below starve.",
+
+    "likes": 30
+},{
+    "movieName": "Snowpiercer",
+
+    "image": "https://m.media-amazon.com/images/I/71-oPmQghML._SL1200_.jpg",
+
+    "description": "Set more than seven years after the world has become a frozen wasteland, this series centres on the remaining people.",
+
+    "likes": 40
+},{
+    "movieName": "SNOWDEN",
+
+    "image": "https://m.media-amazon.com/images/I/A1v9PaRUE6L._SL1500_.jpg",
+
+    "description": "After discovering that the NSA is illegally spying on ordinary US citizens, Edward Snowden, grapples with the decision to leak their classified documents to the press.",
+
+    "likes": 50
+},{
+    "movieName": "The Pursuit Of Happyness",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
+
+    "description": "Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with his son's custody to deal with.",
+
+    "likes": 60
+}]`;
